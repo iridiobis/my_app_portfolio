@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="main_spotify_desc">Spotify Streamer</string>
+    <string name="main_scores_desc">scores</string>
+    <string name="main_library_desc">library</string>
+    <string name="main_bigger_desc">"Build It Bigger"</string>
+    <string name="main_reader_desc">XYZ Reader</string>
+    <string name="main_capstone_desc">capstone</string>
+</resources>
